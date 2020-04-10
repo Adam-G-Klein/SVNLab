@@ -1,0 +1,4 @@
+User Stories
+As a online shopper I want to find out my shoe size in a particular shoe so that I can order them online without worry about needing to return and reorder them.
+As a shopper that can’t find a particular shoe model in-store to try on, I want to find out what shoe size I would be for that model so that I can confidently order them online.
+As a shopper with limited time, I want to be able to find out my shoe size for a particular shoe model within 5 clicks so that I don’t have to waste time going in-store to try on shoes.
