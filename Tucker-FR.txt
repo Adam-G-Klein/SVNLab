@@ -1,0 +1,5 @@
+The application shall allow users to create an account. 
+
+The application shall allow users to input shoe size information for the shoes they already own.
+
+The application shall allow users to login using their Google account. 
