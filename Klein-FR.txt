@@ -1,0 +1,6 @@
+1. The application shall provide a size recommendation based on two or more of 
+the user's shoe sizes
+2. The application shall provide partial search results when one or more characters 
+is entered into the search fields.
+3. The application shall provide the sizes and model names of shoes already entered
+in the account page.

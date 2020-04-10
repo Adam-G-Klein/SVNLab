@@ -1,0 +1,6 @@
+1. As a consistent user, I want to add new shoes to my account, so that my size predictions improve.
+2. As a new user, I want to see the possible shoe results as I type in the shoe I’m searching for, so that I know the application contains what I’m looking for, and that I’m typing in the name of the shoe correctly.
+3. As a hesitant user, I want to see additional information about the fit, sole thickness, and break in time of shoes recommended to me so that I can be sure the shoe is right for me.
+(A fourth and fifth, just in case one of my group members has already used one of the above)
+4. As a user who does not buy shoes often, I want to be able to get a size prediction on a new pair of shoes while entering my sizes from just two pairs of shoes, so that I am not prevented from using the application because I do not own three or more pairs of shoes.
+5. As a user with many pairs of shoes, I want to be able to enter all the shoes I own, so that my prediction is as accurate as possible.
