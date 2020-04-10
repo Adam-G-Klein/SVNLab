@@ -1,0 +1,11 @@
+As a user,
+I want to get my predicted shoe size for a specific model of shoe,
+so that I can buy shoes online without trying them on first.
+
+As a user,
+I want to input my shoe size information only once for each shoe I own,
+so that I don’t have to put in my information every time I want a recommendation.
+
+As a user,
+I want to be able to view how the predictions are made,
+so that I can have more faith in the predictions.
